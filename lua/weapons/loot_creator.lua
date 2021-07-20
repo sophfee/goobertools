@@ -26,7 +26,13 @@ SWEP.Models = {
 	"models/props_junk/wood_crate002a.mdl",
 	"models/props_c17/Lockers001a.mdl",
 	"models/props_c17/FurnitureFridge001a.mdl",
-	""
+	"models/props_c17/FurnitureDresser001a.mdl",
+	"models/props_wasteland/controlroom_storagecloset001a.mdl",
+	"models/props_junk/TrashDumpster01a.mdl",
+	"models/props_wasteland/controlroom_filecabinet002a.mdl",
+	"models/props_lab/partsbin01.mdl",
+	"models/props_interiors/VendingMachineSoda01a.mdl",
+	"models/props_c17/furnitureStove001a.mdl"
 }
 
 SWEP.Ents = {}
