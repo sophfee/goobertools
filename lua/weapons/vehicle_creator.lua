@@ -7,7 +7,7 @@ if SERVER then
 end
 
 
-SWEP.PrintName = "Spawn Creator"
+SWEP.PrintName = "Vehicle Spawn Creator"
 SWEP.Spawnable = true
 SWEP.Category = "goober"
 SWEP.Primary.Ammo = "None"
